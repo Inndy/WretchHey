@@ -1,7 +1,7 @@
 Wretch Hey
 ==========
 
-[Wretch][1] has been a famous blog platform in Taiwan since 1999, and closing at 26 Dec 2013.
+[Wretch][1] has been a famous blog platform in Taiwan since 1999, and closed at 26 Dec 2013.
 
 There has a vulnerability allow you to download full album if its cover was setted.
 
